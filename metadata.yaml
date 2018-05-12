@@ -1,0 +1,30 @@
+_repo: The-Sentimental-Vikings_32191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Risley, R. V. (Richard Voorhees)
+    alias: Risley, Richard Voorhees
+    birthdate: 1874
+    deathdate: 1904
+    gutenberg_agent_id: '35724'
+    url: http://www.gutenberg.org/2009/agents/35724
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Vikings -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: The sweeping of the hall -- An incident -- Where the wolves dance
+  -- The sacrilege -- The story of the Oar-Captain -- The last voyage.
+title: The Sentimental Vikings
+url: http://www.gutenberg.org/ebooks/32191
